@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nelcivagner or Vagner, Full-Stack Developer at <a href="https://www.linkedin.com/showcase/avanade-brasil/" target="_blank">Avanade</a> I've been working with technology since 2016.
+I'm Nelcivagner or Vagner, Full-Stack Developer I've been working with technology since 2016.
 
 <div>
 <a href="https://www.linkedin.com/in/nelcivagner-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
